@@ -1,0 +1,4 @@
+config.json
+.DS_Store
+data/word2vec*
+__pycache__

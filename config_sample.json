@@ -1,0 +1,9 @@
+{
+  "OPENAI_API_KEY": "your-api-key",
+  "EMBEDDING_MODEL_TYPE": "word2vec",
+  "CHAT_MODEL_TYPE": "word2vec",
+  "STOPWORDS_PATH": "./data/四川大学机器智能实验室停用词库.txt",
+  "WORD2VEC_PATH": "./data/word2vec.model",
+  "CHATGLM_PORT": 8000,
+  "COLLECTION_NAME":"suzume_collection"
+}

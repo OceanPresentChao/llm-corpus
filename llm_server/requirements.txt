@@ -1,0 +1,5 @@
+qdrant_client
+openai
+Flask
+gensim
+jieba
