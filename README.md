@@ -7,7 +7,7 @@
 5. 本地ChatGLM2-6B大模型部署
 6. 简单的知识库应用
 
-![](https://res.oceanpresent.art/blog/cf1879e2-997b-4325-8730-e1a01567c566.png)
+![](./doc/media/3.png)
 
 ## 项目结构
 - corpus：存放知识库文档的文件夹
@@ -43,5 +43,9 @@ python main.py
 参考ChatGLM2-6B[官方文档](https://github.com/THUDM/ChatGLM2-6B)
 
 # 教程
-[word2vec](./doc/word2vec.ipynb)
-[document.ai](https://github.com/GanymedeNil/document.ai)
+
+- [训练word2vec](./doc/word2vec.ipynb)
+
+- [手把手从零教你搭建大模型知识库](./doc/手把手教你从零搭建自己的知识库.md)
+
+- [document.ai](https://github.com/GanymedeNil/document.ai)
